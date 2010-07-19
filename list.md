@@ -13,6 +13,16 @@ So you're going on a trip. Well, here is a list of stuff you probably need.
  * 1 Belt
  * 1 Pair of Shoes
 
+## Toiletries
+
+ * Deodorant
+ * Toothbrush
+ * Toothpaste
+ * Razor
+ * Plastic bags
+ * Brush
+ * Advil
+
 ## Other
 
  * Laptop
