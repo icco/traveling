@@ -2,6 +2,9 @@
 
 So you're going on a trip. Well, here is a list of stuff you probably need.
 
+This is based off of my trip to NYC on July 21st. This will need to be
+abstracted for future plans.
+
 ## Clothes
 
  * 4 T-Shirts
@@ -12,6 +15,11 @@ So you're going on a trip. Well, here is a list of stuff you probably need.
  * 4 pairs underwear
  * 1 Belt
  * 1 Pair of Shoes
+ * 3 Hankercheifs
+ * 1 Pair of Sneakers
+ * 1 Pair of Dress Shoes
+ * 1 Polo
+ * 1 Button Down Shirt
 
 ## Toiletries
 
