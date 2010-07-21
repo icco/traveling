@@ -14,7 +14,6 @@ abstracted for future plans.
  * 5 Pairs socks
  * 4 pairs underwear
  * 1 Belt
- * 1 Pair of Shoes
  * 3 Hankercheifs
  * 1 Pair of Sneakers
  * 1 Pair of Dress Shoes
