@@ -25,8 +25,6 @@ abstracted for future plans.
  * Deodorant
  * Toothbrush
  * Toothpaste
- * Razor
- * Plastic bags
  * Brush
  * Advil
 
@@ -38,6 +36,7 @@ abstracted for future plans.
  * Phone Charger
  * Wallet (Make sure to make copies of ID, and other plastic)
  * iPod
+ * iPod Charger
  * Headphones
  * Notepad
  * Pen

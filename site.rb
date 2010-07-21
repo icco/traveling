@@ -7,7 +7,6 @@ require 'rubygems'
 require 'sinatra'
 require 'less'
 require 'rdiscount'
-require 'RMagick'
 
 get '/' do
    md = RDiscount.new(File.read("list.md"), :smart).to_html
