@@ -17,7 +17,6 @@ abstracted for future plans.
  * 3 Hankercheifs
  * 1 Pair of Sneakers
  * 1 Pair of Dress Shoes
- * 1 Polo
  * 1 Button Down Shirt
 
 ## Toiletries
