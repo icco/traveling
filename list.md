@@ -1,42 +1,51 @@
 # Packing List
 
-So you're going on a trip. Well, here is a list of stuff you probably need.
+Current Trip: Washington, D.C.
 
-This is based off of my trip to NYC on July 21st. This will need to be
-abstracted for future plans.
+Thursday, Oct. 28th through Sunday, Oct. 31st
+
+## TODO before leaving
+ 
+ * laundry
+   * wash toiletries bag
+ * Make signs for marching
+ * Put music onto laptop and phone
+ * Get gas, clean car
+ * start english paper, write brae paper
+ * make sure bags have nothing illegal for traveling
 
 ## Clothes
 
  * 4 T-Shirts
- * 2 overshirts
- * 1 Pair of Jeans
- * 2 Pair of Shorts
+ * 1 Sweatshirt
+ * 2 Pair of Jeans
  * 5 Pairs socks
  * 4 pairs underwear
  * 1 Belt
- * 3 Hankercheifs
- * 1 Pair of Sneakers
+ * 4 Hankercheifs
+ * 1 Pair of Running Shoes (remember your feet in NYC?)
  * 1 Pair of Dress Shoes
  * 1 Button Down Shirt
 
 ## Toiletries
 
+ * Advil
+ * Brush
  * Deodorant
  * Toothbrush
  * Toothpaste
- * Brush
- * Advil
 
 ## Other
 
+ * Gibson Book - for english paper
+ * Headphones
  * Laptop
  * Laptop Charger
+ * Notebook
+ * Pen
  * Phone
  * Phone Charger
- * Wallet (Make sure to make copies of ID, and other plastic)
- * iPod
- * iPod Charger
- * Headphones
- * Notepad
- * Pen
+ * Wallet
+
+
 
