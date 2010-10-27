@@ -10,6 +10,6 @@ require 'rdiscount'
 
 get '/' do
    md = RDiscount.new(File.read("list.md"), :smart).to_html
-   erb :index, :locals => { :readme => md }
+   erb :index, :locals => { :content => md }
 end
 
