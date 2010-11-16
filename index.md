@@ -5,7 +5,7 @@ layout: default
 
 # Packing List
 
-Current Trip: British Iles  
+Current Trip: Western Europe  
 4 Weeks in July
 
 ## TODO before leaving
