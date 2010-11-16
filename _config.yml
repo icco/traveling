@@ -1,0 +1,4 @@
+# Which markdown lib
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
