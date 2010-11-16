@@ -5,27 +5,23 @@ layout: default
 
 # Packing List
 
-Current Trip: Washington, D.C.
-
-Thursday, Oct. 28th through Sunday, Oct. 31st
+Current Trip: British Iles  
+4 Weeks in July
 
 ## TODO before leaving
  
- * laundry
-   * wash toiletries bag
- * Make signs for marching
- * Put music onto laptop and phone
- * Get gas, clean car
- * start english paper, write brae paper
- * make sure bags have nothing illegal for traveling
+ * Buy tickets
+ * find places to stay
+ * Look into travelers insurance
+   * travelers checks?
 
 ## Clothes
 
  * 4 T-Shirts
  * 1 Sweatshirt
  * 2 Pair of Jeans
- * 5 Pairs socks
- * 4 pairs underwear
+ * 7 Pairs socks
+ * 7 pairs underwear
  * 1 Belt
  * 4 Hankercheifs
  * 1 Pair of Running Shoes (remember your feet in NYC?)
@@ -42,15 +38,18 @@ Thursday, Oct. 28th through Sunday, Oct. 31st
 
 ## Other
 
- * Gibson Book - for english paper
  * Headphones
  * Laptop
  * Laptop Charger
+ * Maps
  * Notebook
+ * Passport
+ * Passport
  * Pen
  * Phone
  * Phone Charger
  * Wallet
-
-
+ * Sunglasses
+ * hat?
+ * Watch?
 
