@@ -1,3 +1,8 @@
+---
+title: Nat's Packing List
+layout: default
+---
+
 # Packing List
 
 Current Trip: Washington, D.C.
