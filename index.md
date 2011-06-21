@@ -29,6 +29,7 @@ Jun 28 to Jul 27, 2011
  * 1 Pair of Running Shoes (remember your feet in NYC?)
  * 1 Pair of Dress Shoes
  * 1 Button Down Shirt
+ * 1 Pair of Flip Flops
 
 ## Toiletries
 
@@ -40,6 +41,7 @@ Jun 28 to Jul 27, 2011
  * Toothbrush
  * Toothpaste
  * Razor?
+ * Towel
 
 ## Other
 
@@ -57,4 +59,5 @@ Jun 28 to Jul 27, 2011
  * Sunglasses
  * Watch (Probably should buy)
  * Plug Adapter
+ * Daypack
 
