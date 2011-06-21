@@ -56,4 +56,5 @@ Jun 28 to Jul 27, 2011
  * Wallet
  * Sunglasses
  * Watch (Probably should buy)
+ * Plug Adapter
 
