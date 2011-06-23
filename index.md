@@ -16,6 +16,9 @@ Jun 28 to Jul 27, 2011
  * Fix that one night at London Hostel
  * Figure out Third Week
  * Map out Laundromats and Grocery Stores
+ * Call Credit card companies and tell them I will be traveling abroad, 
+   for how long, and in what countries
+   * Give them european phone number, if applicable.
 
 ## Clothes
 
