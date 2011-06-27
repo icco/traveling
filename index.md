@@ -23,6 +23,7 @@ Jun 28 to Jul 27, 2011
  * 5 T-Shirts
  * 1 Sweatshirt
  * 2 Pair of Jeans
+ * 2 Pair of Shorts
  * 7 Pairs socks
  * 7 pairs underwear
  * 1 Belt
@@ -31,25 +32,26 @@ Jun 28 to Jul 27, 2011
  * 1 Pair of Dress Shoes
  * 1 Button Down Shirt
  * 1 Pair of Flip Flops
- * 1 Rain jaket
+ * 1 Rain jacket
 
 ## Toiletries
 
  * Advil
- * Tums
- * Lactaid
  * Brush
  * Deodorant
+ * Lactaid
+ * Razor?
  * Toothbrush
  * Toothpaste
- * Razor?
  * Towel
+ * Tums
 
 ## Other
 
- * Headphones (The small Sony Ones
- * Laptop
+ * Day pack
+ * Headphones (The small Sony ones and Apple ones)
  * Kindle
+ * Laptop
  * Laptop Charger
  * Maps
  * Notebook
@@ -57,9 +59,8 @@ Jun 28 to Jul 27, 2011
  * Pen
  * Phone
  * Phone Charger (also Kindle Charger)
- * Wallet
- * Sunglasses
- * Watch (Probably should buy)
  * Plug Adapter
- * Daypack
+ * Sunglasses
+ * Wallet
+ * Watch (Probably should buy)
 
