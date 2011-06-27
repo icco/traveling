@@ -11,9 +11,6 @@ Jun 28 to Jul 27, 2011
 
 ## TODO before leaving
  
- * Look into travelers insurance
- * travelers checks?
- * Fix that one night at London Hostel
  * Figure out Third Week
  * Map out Laundromats and Grocery Stores
  * Call Credit card companies and tell them I will be traveling abroad, for how long, and in what countries
@@ -62,5 +59,5 @@ Jun 28 to Jul 27, 2011
  * Plug Adapter
  * Sunglasses
  * Wallet
- * Watch (Probably should buy)
+ * Watch
 
