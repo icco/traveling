@@ -62,6 +62,7 @@ Jun 28 to Jul 27, 2011
  * Plug Adapter
  * Snowboard Lock
  * Sunglasses
+ * Towel
  * Wallet
  * Watch
 
