@@ -13,7 +13,6 @@ Jun 28 to Jul 27, 2011
  
  * Figure out Third Week
  * Map out Laundromats and Grocery Stores
- * Call Credit card companies and tell them I will be traveling abroad, for how long, and in what countries
  * Haircut
  * Car wash
 
