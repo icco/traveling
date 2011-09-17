@@ -9,9 +9,9 @@ Now made for generic work trips. Assumes four day trip.
 
 ## TODO before leaving
  
-  * Call taxi
-  * Grab tickets?
-  * Start expense report
+ * Call taxi
+ * Grab tickets?
+ * Start expense report
 
 ## Clothes
 
