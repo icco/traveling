@@ -1,0 +1,58 @@
+---
+title: Nat's Packing List
+layout: default
+---
+
+# Packing List
+
+Now made for generic work trips. Assumes four day trip.
+
+## TODO before leaving
+ 
+ * Call taxi
+ * Grab tickets?
+ * Start expense report
+
+## Clothes
+
+ * 4 T-Shirts
+ * 1 Sweatshirt
+ * 2 Pair of Jeans
+ * 4 Pairs socks
+ * 4 pairs underwear
+ * 1 Belt
+ * 4 Handkerchiefs
+ * 1 Pair of walking Shoes (remember your feet in NYC?)
+ * 1 Pair of Dress Shoes
+ * 1 Button Down Shirt
+ * 1 Rain jacket
+
+## Toiletries
+
+ * Advil
+ * Brush
+ * Deodorant
+ * Lactaid
+ * Razor
+ * Toothbrush
+ * Toothpaste
+ * Tums
+
+## Other
+
+ * Messenger Bag / Backpack
+ * Headphones (The small Sony ones and Apple ones)
+ * Kindle
+ * Laptop
+ * Laptop Charger
+ * Notebook
+ * Passport
+ * Pen
+ * Phone
+ * Phone Charger (also Kindle Charger)
+ * Plug Adapter
+ * Sunglasses
+ * Glasses
+ * Wallet
+ * Watch
+
