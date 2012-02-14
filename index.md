@@ -5,13 +5,7 @@ layout: default
 
 # Packing List
 
-Now made for generic work trips. Assumes four day trip.
-
-## TODO before leaving
- 
- * Call taxi
- * Grab tickets?
- * Start expense report
+For Ski Trip 2/16 - 2/19
 
 ## Clothes
 
@@ -25,7 +19,24 @@ Now made for generic work trips. Assumes four day trip.
  * 1 Pair of walking Shoes (remember your feet in NYC?)
  * 1 Pair of Dress Shoes
  * 1 Button Down Shirt
- * 1 Rain jacket
+
+## Snow specific stuff
+
+ * Snowboard
+ * Lock
+ * Leash - go home and make one?
+ * Snowtool
+ * Snow jacket
+ * Long underwear - Top and Bottom
+ * Snowpants
+ * Goggles
+ * Gloves
+ * Warm Hat
+ * Helmet - buy?
+
+## Reno
+
+ * Sleeping bag
 
 ## Toiletries
 
