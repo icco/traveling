@@ -5,23 +5,22 @@ layout: default
 
 # Packing List
 
-For Seattle 4/3 - 4/8
+For Missouri 3/30 - 4/2
 
 This list includes what will be on my back.
 
 ## Clothes
 
- * 6 T-Shirts
+ * 4 T-Shirts
  * 1 Sweatshirt
  * 1 Northface Jacket
  * 1 Beannie
  * 2 Pair of Jeans
- * 6 Pairs socks
- * 6 pairs underwear
+ * 4 Pairs socks
+ * 4 pairs underwear
  * 1 Belt
- * 6 Handkerchiefs
+ * 4 Handkerchiefs
  * 1 Pair of Shoes
- * 1 Pair of Running Shoes
  * 1 Button Down Shirt
 
 ## Toiletries
@@ -40,8 +39,6 @@ This list includes what will be on my back.
  * Messenger Bag / Backpack
  * Headphones (The small Sony ones and Apple ones)
  * Kindle
- * Work Laptop
- * Google Badge
  * Personal Laptop
  * Laptop Charger
  * Notebook
