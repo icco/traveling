@@ -7,9 +7,10 @@ layout: default
 
 For The Playa 8/27 - 9/3
 
-<https://docs.google.com/spreadsheet/ccc?key=0AgqMxxNYvnAPdGlkZ2hreklvQ3kzTmlLd0JXaS1FaGc>
+Based off of [Reed Morse's List][1].
 
 ## Other stuff...
 
  * Formal clothes for one night.
- * Buy a bike
+
+[1]: https://docs.google.com/spreadsheet/ccc?key=0AgqMxxNYvnAPdGlkZ2hreklvQ3kzTmlLd0JXaS1FaGc
