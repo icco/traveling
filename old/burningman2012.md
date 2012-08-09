@@ -13,10 +13,11 @@ Based off of [Reed Morse's List][1].
 
  * Tent
  * Long tent stakes
+   * 12" landscaping stakes and washers
  * Sleeping bag
  * Pillow
- * Air mattress
- * Air mattress pump
+ * Cot
+ * Thermarest
  * Lantern
  * Camp Chairs
  * Cooler + silver top
@@ -32,12 +33,10 @@ Based off of [Reed Morse's List][1].
  * Aloe
  * Camelback
  * Shaving kit
- *
  * Costumes
  * Flip-flops (shower)
  * Shoes
  * First aid kit
- * Condoms
  * 8 days clothes
  * Towel
  * Soap (dr bronners)
@@ -50,7 +49,8 @@ Based off of [Reed Morse's List][1].
 
  * Burning Man Ticket
  * Bike
- * Tire Pump
+ * Spare tires
+   * still need to buy
  * bike lock
  * chain oil
  * bike light
@@ -81,18 +81,15 @@ Based off of [Reed Morse's List][1].
  * moving blanket
  * space blanket
 
-
-
 ## Costumes
 
  * Sunday Night Party -  Duck Pond Staff Shirt
- * Tuesday  -  Dirty Bird Tea Party  -  Foul Language & Party Dresses
+ * Tuesday  -  Dirty Bird Tea Party  -  Foul Language &amp; Party Dresses
  * Tuesday Night -  All Camp outing May start at Mardi Gras Party.
  * Wednesday -  Playa Rugby
  * 6th Annual MALLARDS BALL -  Fancy Dress Party
  * Thursday - Yacht Rock Yoga, Bingo, Bocce, and general Cruise related attire.  Mustaches Encouraged. :)
  * Funky Friday -  Whatever that means to you!~
  * As always there is the OT White Party you may want to prepare for.
-
 
 [1]: https://docs.google.com/spreadsheet/ccc?key=0AgqMxxNYvnAPdGlkZ2hreklvQ3kzTmlLd0JXaS1FaGc
