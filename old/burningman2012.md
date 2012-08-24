@@ -38,12 +38,20 @@ Based off of [Reed Morse's List][1].
  * Shoes
  * First aid kit
  * 8 days clothes
+   * shorts
+   * jacket
+   * underwear
+   * pants
+   * beanie
+   * socks!
+   * shoes
  * Towel
  * Soap (dr bronners)
  * single ply toilet paper
  * Eye drops
  * Hat
  * Sunglasses
+ * Condoms
 
 ## Burning Man Gear
 
@@ -52,7 +60,6 @@ Based off of [Reed Morse's List][1].
  * Spare tires
    * still need to buy
  * bike lock
- * chain oil
  * bike light
  * 20 gallons water (2.5 gal/day)
  * spritzer bottle
@@ -62,7 +69,6 @@ Based off of [Reed Morse's List][1].
  * bike rack
  * batteries
  * el wire
- * glowies
  * extension cord
  * dust goggles (amber)
  * dust goggles (clear)
@@ -80,6 +86,8 @@ Based off of [Reed Morse's List][1].
  * bungie cords
  * moving blanket
  * space blanket
+ * matches and lighters
+ * deck of cards
 
 ## Costumes
 
@@ -89,7 +97,7 @@ Based off of [Reed Morse's List][1].
  * Wednesday -  Playa Rugby
  * 6th Annual MALLARDS BALL -  Fancy Dress Party
  * Thursday - Yacht Rock Yoga, Bingo, Bocce, and general Cruise related attire.  Mustaches Encouraged. :)
- * Funky Friday -  Whatever that means to you!~
+ * Funky Friday -  Whatever that means to you!
  * As always there is the OT White Party you may want to prepare for.
 
 [1]: https://docs.google.com/spreadsheet/ccc?key=0AgqMxxNYvnAPdGlkZ2hreklvQ3kzTmlLd0JXaS1FaGc
