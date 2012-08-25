@@ -77,7 +77,8 @@ Based off of [Reed Morse's List][1].
  * bike rack
  * batteries
    * AA
-   * ?
+   * AAA
+   * D
  * el wire
  * extension cord
  * radio
