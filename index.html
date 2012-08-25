@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <li class="{% cycle 'one', 'two' %}">
       <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
-      &raquo; <a href="./{{ post.url }}">{{ post.title }}</a>
+      &raquo; <a href=".{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
