@@ -20,8 +20,15 @@ Based off of [Reed Morse's List][1].
  * Thermarest
  * Lantern
  * Camp Chairs
- * Cooler + silver top
+ * Cooler
+   * silver top
+   * rack for lifting stuff out of melted ice
  * Food &amp; Snacks
+ * plastic bags
+ * trash bags
+ * zip ties
+ * vice grips?
+ * blankets
 
 ## Personal Gear
 
@@ -33,10 +40,15 @@ Based off of [Reed Morse's List][1].
  * Aloe
  * Camelback
  * Shaving kit
+   * toothpaste
+   * toothbrush
+   * deoderant
+   * q-tips
+   * brush
  * Costumes
  * Flip-flops (shower)
  * Shoes
- * First aid kit
+ * First aid kit - rei?
  * 8 days clothes
    * shorts
    * jacket
@@ -44,7 +56,6 @@ Based off of [Reed Morse's List][1].
    * pants
    * beanie
    * socks!
-   * shoes
  * Towel
  * Soap (dr bronners)
  * single ply toilet paper
@@ -52,22 +63,24 @@ Based off of [Reed Morse's List][1].
  * Hat
  * Sunglasses
  * Condoms
+ * water bottles
 
 ## Burning Man Gear
 
  * Burning Man Ticket
  * Bike
- * Spare tires
-   * still need to buy
- * bike lock
- * bike light
+   * Spare tires
+   * tenisball for kickstand?
+   * bike lock
+   * bike light
  * 20 gallons water (2.5 gal/day)
- * spritzer bottle
  * work gloves
  * toolkit
  * rope/cord
  * bike rack
  * batteries
+   * AA
+   * ?
  * el wire
  * extension cord
  * dust goggles (amber)
@@ -84,7 +97,7 @@ Based off of [Reed Morse's List][1].
  * sharpie
  * krazy glue
  * bungie cords
- * moving blanket
+ * moving blankets
  * space blanket
  * matches and lighters
  * deck of cards
