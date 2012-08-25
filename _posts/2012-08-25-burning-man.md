@@ -1,9 +1,7 @@
 ---
-title: Nat's Packing List
+title: Nat's Burning Man Packing List
 layout: default
 ---
-
-# Packing List
 
 For The Playa 8/27 - 9/3
 
@@ -63,7 +61,6 @@ Based off of [Reed Morse's List][1].
  * Hat
  * Sunglasses
  * Condoms
- * water bottles
 
 ## Burning Man Gear
 
@@ -83,13 +80,13 @@ Based off of [Reed Morse's List][1].
    * ?
  * el wire
  * extension cord
+ * radio
  * dust goggles (amber)
  * dust goggles (clear)
  * earplugs
  * dust mask
  * handi-wipes
  * booze
- * garbage bags
  * duct tape
  * party favors
  * safety pins
@@ -101,6 +98,9 @@ Based off of [Reed Morse's List][1].
  * space blanket
  * matches and lighters
  * deck of cards
+ * Camera + gear
+ * Frisbe
+ * Books
 
 ## Costumes
 
