@@ -1,0 +1,8 @@
+# Which markdown lib
+markdown: kramdown
+
+# which type of links.
+permalink: pretty
+
+# Deal with source code?
+pygments: true
