@@ -10,7 +10,6 @@ Based off of [Reed Morse's List][1].
 ## Camping Gear
 
  * Tent
- * Long tent stakes
    * 12" landscaping stakes and washers
  * Sleeping bag
  * Pillow
