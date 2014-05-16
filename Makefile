@@ -10,4 +10,4 @@ clean:
 	rm -rf _site/
 
 local:
-	$J serve --port=4000 --watch --drafts
+	$J serve --port=9393 --watch --drafts
