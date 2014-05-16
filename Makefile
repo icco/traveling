@@ -9,5 +9,5 @@ site:
 clean:
 	rm -rf _site/
 
-server:
+local:
 	$J serve --port=4000 --watch --drafts
