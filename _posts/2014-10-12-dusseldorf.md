@@ -1,26 +1,27 @@
 ---
 
-title: Nat's Weekend Trip to Milan
+title: Nat's Cloud Open Trip to Düsseldorf
 layout: default
 
 ---
 
+![weather](http://cl.natw.me/XzJt/d)
+
 # Packing List
 
-Five days
+Fourish days
 
 ## Clothes (including on back)
 
- * 5 T-Shirts
+ * 4 T-Shirts
  * 1 Jacket
- * 2 Pair of Jeans
- * 5 Pairs socks
- * 5 pairs underwear
+ * 1 Pair of Jeans
+ * 4 Pairs socks
+ * 4 pairs underwear
  * 1 Belt
- * 5 Handkerchiefs
- * 1 Pair of walking Shoes (remember your feet in NYC?)
+ * 4 Handkerchiefs
+ * 1 Pair of walking Shoes
  * Wool Hat
- * Gloves
 
 ## Toiletries
 
