@@ -7,6 +7,8 @@ layout: default
 
 ![weather](http://cl.natw.me/XzJt/d)
 
+ * [Wikitravel](http://wikitravel.org/en/D%C3%BCsseldorf)
+
 # Packing List
 
 Fourish days
