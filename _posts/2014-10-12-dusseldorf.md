@@ -5,13 +5,11 @@ layout: default
 
 ---
 
+# Nat's Cloud Open Trip to Düsseldorf
+
 ![weather](http://cl.natw.me/XzJt/d)
 
  * [Wikitravel](http://wikitravel.org/en/D%C3%BCsseldorf)
-
-# Packing List
-
-Fourish days
 
 ## Clothes (including on back)
 
