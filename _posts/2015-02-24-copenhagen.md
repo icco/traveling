@@ -15,6 +15,7 @@ layout: default
 ## Clothes (including on back)
 
  * 5 T-Shirts
+ * 3 Flannel Shirts
  * 1 Jacket
  * 1 Pair of Jeans
  * 5 Pairs socks
