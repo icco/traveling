@@ -7,4 +7,4 @@ redcarpet:
 permalink: pretty
 
 # Deal with source code?
-highlighter: true
+highlighter: false
