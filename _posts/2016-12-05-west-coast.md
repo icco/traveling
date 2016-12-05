@@ -13,18 +13,18 @@ layout: default
 
  * 6 T-Shirts
  * 1 heavy jacket
- * 1 liner jacket
+ * 1 patagonia
  * 1 light hoody
- * 2 pair of Jeans
- * 4 pairs socks
- * 3 pairs warm socks
+ * 3 pair of Jeans
+ * 5 pairs socks
+ * 4 pairs warm socks
  * 1 pair long underwear
- * 6 pairs underwear
+ * 7 pairs underwear
  * 1 pair lounge shorts
  * 1 Belt
- * 4 Handkerchiefs
+ * 5 Handkerchiefs
  * 1 pair of walking Shoes
- * 1 pair of boot shoes
+ * 1 pair of boots
  * Wool Hat
  * Scarf
  * Gloves
