@@ -11,7 +11,7 @@ layout: default
 
 ## Clothes (including on back)
 
- * 6 T-Shirts
+ * 7 T-Shirts
  * 1 heavy jacket
  * 1 patagonia
  * 1 light hoody
