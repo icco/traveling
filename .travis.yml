@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+- 2.4.0
+script:
+- bundle exec jekyll build
+deploy:
+  provider: onesie
+  edge:
+    source: icco/dpl
+    branch: onesie
+  skip_cleanup: true
+  local-dir: _site
+  key: 1193dc06-d1be-461d-9025-97c4cc50319b
+  domain: travel.natwelch.com
+  secret:
