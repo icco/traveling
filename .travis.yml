@@ -13,3 +13,4 @@ deploy:
   key: 1193dc06-d1be-461d-9025-97c4cc50319b
   domain: travel.natwelch.com
   secret:
+    secure: TRr6ltEyuwLRvfQvYTH6Bmx2YgKLBbFn6jOZl0tG8Gf/P/yuuFG6j7gZ/GO5D5lWuMTmXopJZf5zATURiSPuplSG6k9d0NNtLGsYy99D6foOgPpCxj2LM5GtXs6CKwy6mybXe27lxlsRSt36gPS38GAuiXvgfyN+gIWpejelcc8=
