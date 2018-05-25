@@ -7,16 +7,16 @@ layout: default
 
 # Packing List
 
-- SF: 5 Nights
-- SEA: 3 Nights
-- PDX: 5 Nights
+- SF: 5 Nights (53 / 66)
+- SEA: 3 Nights (72 / 49)
+- PDX: 5 Nights (80 / 52)
 
 ## Clothes
 
  * 6 t-shirts
  * 1 patagonia jacket
  * 2 pair of jeans
- * 1 pair of shorts
+ * 2 pair of shorts
  * 6 pairs socks
  * 6 pairs underwear
  * 1 belt
